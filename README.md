@@ -36,28 +36,8 @@
 44 misc::cmd
 45 misc::compressme
 46 misc::detours
-47
-48
-49
-50
-51
-52
-53
-54
-55
-56
-57
-58
-59
-60
-61
-62
-63
-64
-65
-66
-67
-68
-69
-70
-```
+47 misc::regedit
+48 privilege::
+49 privilege::restore
+50 الحقوق 
+51 imgaes, Mimikatz bye !
